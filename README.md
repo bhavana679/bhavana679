@@ -1,11 +1,11 @@
-Sure! Here's your updated profile with **Bhavana Talkute** replacing **Birajit Saikia**:
+<h1>Bhavana Talkute<h1>
 
 ---
 
 
 ---
 
-![BHAVANA TALKUTE Animation](https://raw.githubusercontent.com/biru-codeastromer/biru-codeastromer/main/ghpp.gif)
+
 
 ## 🌟 About Me  
 
@@ -97,8 +97,6 @@ Sure! Here's your updated profile with **Bhavana Talkute** replacing **Birajit S
 
 
 
-
-Let me know if you'd like to change anything else!
 <!---
 bhavana679/bhavana679 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
