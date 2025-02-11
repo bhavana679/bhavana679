@@ -2,13 +2,6 @@ Sure! Here's your updated profile with **Bhavana Talkute** replacing **Birajit S
 
 ---
 
-<div align="center">
-  <img src="https://github.com/biru-codeastromer/biru-codeastromer/blob/main/discordprofile.png" alt="BhavanaCommits Banner" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello+everyone%2C;Myself+BHAVANA+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing Animation">
-</div>
 
 ---
 
@@ -102,25 +95,8 @@ Sure! Here's your updated profile with **Bhavana Talkute** replacing **Birajit S
 
 - [![An image of @bhavanacodeastromer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhavanacodeastromer)](https://holopin.io/@bhavanacodeastromer)
 
----
 
-## 🚀 Future Goals
-- Build a scalable **AI-driven application**  
-- Create a **IPL teams based multipurpose website and app**
-- Participate in **Google Summer of Code (GSoC)**  
 
----
-
-## 🎨 Fun Fact
-When I’m not coding, I’m either batting on the cricket field or analysing cricketing stuff around!
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
-</div>
-
----
 
 Let me know if you'd like to change anything else!
 <!---
