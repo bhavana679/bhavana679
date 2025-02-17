@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Bhavana Talkute –>Your next favorite problem solver and code enthusiast! 🚀
+# 👋 Hey there, I'm Bhavana Talkute –> problem solver and code enthusiast! 🚀
 
 
 Welcome to my corner of GitHub! I'm a passionate coder, lifelong learner, and tech enthusiast. 🚀 Here's a little more about me:
