@@ -8,8 +8,15 @@ Welcome to my corner of GitHub! I'm a passionate coder, lifelong learner, and te
 </p>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavanaa.talkute) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/bhavana-talkute-58808530b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavanatalkute@gmail.com) 
+<a href="https://instagram.com/bhavanaa.talkute" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:bhavanatalkute@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/bhavana-talkute-58808530b/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 ## 🌟 About Me  
 
