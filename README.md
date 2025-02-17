@@ -3,7 +3,13 @@
 Welcome to my corner of GitHub! I'm a passionate coder, lifelong learner, and tech enthusiast. 🚀 Here's a little more about me:
 ---
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bhavana679&label=Profile%20views&color=0e75b6&style=flat" alt="Rahulgupta7777" />
+</p>
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavanaa.talkute) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/bhavana-talkute-58808530b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavanatalkute@gmail.com) 
 
 ## 🌟 About Me  
 
@@ -56,10 +62,6 @@ Welcome to my corner of GitHub! I'm a passionate coder, lifelong learner, and te
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhavana-codeastromer&theme=rose&hide_border=true)](https://git.io/streak-stats)
 
 ---
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavanaa.talkute) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/bhavana-talkute-58808530b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavanatalkute@gmail.com) 
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
