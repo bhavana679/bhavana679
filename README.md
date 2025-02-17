@@ -70,18 +70,23 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavana-codeastromer&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavana-codeastromer&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavana-codeastromer&theme=github-dark" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavana679&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavana679&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavana679&theme=github-dark" alt="GitHub Contribution Graph" />
+</div>
+<h3 align="left">:fire: My Stats:</h3>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=bhavana679&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
 </div>
 
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bhavana-codeastromer&theme=holi&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=bhavana679&theme=holi&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bhavana-codeastromer&limit=5&theme=rose&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=bhavana679&limit=5&theme=rose&combine_all_yearly_contributions=true)
 
 ---
 ## [![](https://visitcount.itsvg.in/api?id=bhavanacodeastromer&label=Commits%20watchers&color=5&icon=0&pretty=true)](https://visitcount.itsvg.in)
@@ -93,7 +98,9 @@
 - 🌟 Cleared Hacktoberfest 2024  
 - 💡 Open-source contributor to tech communities
 
-- [![An image of @bhavanacodeastromer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhavanacodeastromer)](https://holopin.io/@bhavanacodeastromer)
+
+
+[![An image of @bhavana679's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhavana679)](https://www.holopin.io/@bhavana679)
 
 
 
