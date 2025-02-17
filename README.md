@@ -65,9 +65,6 @@ Welcome to my corner of GitHub! I'm a passionate coder, lifelong learner, and te
 [![An image of @bhavana679's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhavana679)](https://www.holopin.io/@bhavana679)
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhavana-codeastromer&theme=rose&hide_border=true)](https://git.io/streak-stats)
-
----
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
