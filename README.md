@@ -1,8 +1,7 @@
-<h1> 👋 Hello! I'm Bhavana Talkute<h1>
+# 👋 Hey there, I'm Bhavana Talkute –>Your next favorite problem solver and code enthusiast! 🚀
+
 
 Welcome to my corner of GitHub! I'm a passionate coder, lifelong learner, and tech enthusiast. 🚀 Here's a little more about me:
----
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bhavana679&label=Profile%20views&color=0e75b6&style=flat" alt="Rahulgupta7777" />
 </p>
