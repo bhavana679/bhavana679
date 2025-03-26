@@ -21,7 +21,7 @@ Welcome to my corner of GitHub! I'm a passionate coder, lifelong learner, and te
 
 - 🚀 AI Enthusiast  
 - 💻 Web Developer
-- 🎨 Full-stack developer
+- 🎨 Front-end developer
 - 🌐 Passionate about blending creativity with technology to craft innovative solutions.
 
 ---
@@ -43,7 +43,7 @@ Welcome to my corner of GitHub! I'm a passionate coder, lifelong learner, and te
 
 ## 🌱 **What I’m Learning**
 
-- 🔷 **C++**: Enhancing my programming expertise  
+- 🔷 **Python**: Enhancing my programming expertise  
 - 📚 **Data Structures & Algorithms**: Mastering computational problem-solving  
 - 🌐 **Front-End Development**: Exploring modern UI frameworks and tools  
 - 🛠️ **Best Practices**: Software development and project management methodologies  
